@@ -1,0 +1,25 @@
+:root {
+  --background: #eef0f6;
+  --graphite: #232323;
+  --graphite-light: #737573;
+  --input-background: #d6dae2;
+  --input-text: #8d8d8d;
+  --white: #ffffff;
+  --gradient-start: #2d1eb5;
+  --gradient-end: #b4172d;
+  --shadow: #ececec;
+  --error: #ff5252;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+input,
+a,
+button {
+  font-family: "Poppins";
+}
